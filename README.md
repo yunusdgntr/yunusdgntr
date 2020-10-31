@@ -13,12 +13,12 @@
   - 500K download ⏬. 100K active user 👱.
   - At least 1 global application.
   
-
+#### Fields that I like while reading are mathematics, physics, human physiology, the brain, the science of chaos, fractal geometry.
 
 ### 🤝🏻 Connect with me:
 
-[<img align="left" alt="YunusDogan | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />](https://www.linkedin.com/in/yunusdgn/)
-[<img align="left" alt="YunusDogan | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />](https://twitter.com/yunusdgn_tr)
+[<img align="left"  style="margin-left:2px" alt="YunusDogan | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />](https://www.linkedin.com/in/yunusdgn/)
+[<img align="left"  style="margin-right:2px" alt="YunusDogan | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />](https://twitter.com/yunusdgn_tr)
 [![Gmail Badge](https://img.shields.io/badge/-yunusdgntr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunusdgntr@gmail.com)](mailto:yunusdgntr@gmail.com)
 <br />
 
