@@ -13,7 +13,7 @@
   - 500K download ⏬. 100K active user 👱.
   - At least 1 global application.
   
-#### Fields that I like while reading are mathematics, physics, human physiology, the brain, the science of chaos, fractal geometry.
+#### 📚📖 Fields that I like while reading are mathematics, physics, human physiology, the brain, the science of chaos, fractal geometry.
 
 ### 🤝🏻 Connect with me:
 
