@@ -2,7 +2,7 @@
 ### I'm an Full Stack Software Developer, I love these technologies ➡ .NET Core, Docker, Android, Linux, Python, Go
 <img align="right" width="300" alt="GIF" src="https://avatars1.githubusercontent.com/u/22774511?s=460&u=755f2ff3984bcef5d45bc3bd1b87cb4ae6a38e67&v=4" />
 
--   &nbsp;&nbsp;I’m currently working as a Senior Software Engineer in [Itelligence Turkey](https://itelligencegroup.com/tr-en/) .
+-   &nbsp;&nbsp;I’m currently working as a Senior Software Engineer in [NTT DATA Business Solutions Turkey](https://nttdata-solutions.com/tr/) .
 -    &nbsp;&nbsp;I’m currently learning [<img  alt="Flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>](https://github.com/topics/flutter) and <img alt="Flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
 
 - &nbsp;&nbsp;My 2020 Goals:
