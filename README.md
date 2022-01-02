@@ -5,13 +5,7 @@
 -   &nbsp;&nbsp;I’m currently working as a Senior Software Engineer in [NTT DATA Business Solutions Turkey](https://nttdata-solutions.com/tr/) .
 -    &nbsp;&nbsp;I’m currently learning [<img  alt="Flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>](https://github.com/topics/flutter) and <img alt="Flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
 
-- &nbsp;&nbsp;My 2020 Goals:
-  - Learning 2 languages
-  - 75K download ⏬. 15K active user 👱.
-- &nbsp;&nbsp;My 2021 Goals:
-  - Learning at least one AI framework
-  - 500K download ⏬. 100K active user 👱.
-  - At least 1 global application.
+
   
 #### 📚📖 Fields that I like while reading are mathematics, physics, human physiology, the brain, the science of chaos, fractal geometry.
 
